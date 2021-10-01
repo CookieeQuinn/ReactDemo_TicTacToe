@@ -41,8 +41,13 @@ ol, ul {
 }
 
 .game {
+  height: 300px;
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 5em;
+
 }
 
 .game-info {
